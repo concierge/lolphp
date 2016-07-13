@@ -1,0 +1,9 @@
+﻿{
+  "name": "lolphp",
+  "version": 1.0,
+  "startup": "lolphp.js",
+  "command": "lolphp",
+  "help": [
+    [ "{{commandPrefix}}insult", "Insults PHP." ]
+  ]
+}
